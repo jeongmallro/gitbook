@@ -9,3 +9,4 @@
     * [서버리스 트랜스코딩 시스템 2차 테스트](<project/pitchain/서버리스 트랜스코딩 시스템 2차 테스트.md>)
     * [서버리스 트랜스코딩 시스템 구축](<project/pitchain/서버리스 트랜스코딩 시스템 구축.md>)
     * [트랜스코딩 서버 성능 테스트](<project/pitchain/트랜스코딩 서버 성능 테스트.md>)
+    * [동시성 이슈 해결](<project/pitchain/동시성 이슈 해결.md>)
